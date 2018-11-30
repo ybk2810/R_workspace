@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540258797458.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3435513651",
+    "id" : "F02FA232",
+    "lastKnownWriteTime" : 1540281003,
+    "last_content_update" : 1540281003939,
+    "path" : "C:/Dropbox/Rworkspace/Rscript09.R",
+    "project_path" : "Rscript09.R",
+    "properties" : {
+        "cursorPosition" : "278,0",
+        "scrollLine" : "254"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
